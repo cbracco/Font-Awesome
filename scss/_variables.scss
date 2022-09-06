@@ -4446,7 +4446,7 @@ $fa-icons: (
   "person-circle-check": $fa-var-person-circle-check,
   "turn-up": $fa-var-turn-up,
   "level-up-alt": $fa-var-level-up-alt,
-);
+) !default;
 
 $fa-brand-icons: (
   "monero": $fa-var-monero,
@@ -4948,4 +4948,4 @@ $fa-brand-icons: (
   "korvue": $fa-var-korvue,
   "pix": $fa-var-pix,
   "steam-symbol": $fa-var-steam-symbol,
-);
+) !default;
